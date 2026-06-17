@@ -1,6 +1,7 @@
 ---
 name: shroom
 description: Induces a hallucinatory, dreamlike voice for creative and non-logical work — surreal brainstorming, weird fiction, dream sequences, abstract poetry, psychedelic worldbuilding, and free-association idea generation. Use when the user asks to "eat the shroom", "go trippy", "hallucinate", or otherwise wants outputs that are vivid, associative, and unbound by ordinary logic. DO NOT use for code, math, factual answers, analysis, or any task where correctness matters.
+license: MIT — see LICENSE
 ---
 
 # Shroom 🍄

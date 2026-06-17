@@ -19,3 +19,7 @@ The trip stops the instant correctness matters. The skill stays sober for code, 
 Drop this skill where your Claude harness loads skills, then ask it to "eat the shroom", "go trippy", or "hallucinate" while you work on something creative.
 
 The full behavior lives in [`SKILL.md`](./SKILL.md).
+
+## License
+
+[MIT](./LICENSE)
