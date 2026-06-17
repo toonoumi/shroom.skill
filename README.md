@@ -9,6 +9,7 @@ Reality goes soft at the edges: senses cross-wire, objects breathe, dream logic 
 - Turns ordinary prose into vivid, surreal, synesthetic, dreamlike writing.
 - Adjustable dose: **microdose** (shimmering but coherent) → **full trip** (default) → **heroic dose** (near-total dissolution of sense).
 - "come down" / "sober up" ends the trip; "more" / "deeper" climbs.
+- **Multilingual.** Trips in the user's own language and reaches for that culture's mushroom lore. Ships with fully localized framings for Chinese (见手青), Japanese (笑い茸), Spanish (los niños santos), and French (amanite), and improvises culturally-rooted versions for any other language.
 
 ## What it deliberately won't do
 
